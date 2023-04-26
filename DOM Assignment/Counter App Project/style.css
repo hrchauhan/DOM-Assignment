@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 231, 233);
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    box-shadow: 5px 5px 50px 5px grey;
+}
+h1{
+    background-color: white;
+    margin: 10px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+button{
+    background-color: rgb(196, 193, 193);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+.btn{
+    font-size: 16px;
+    font-weight: 800;
+}
+.btn1{
+    padding: 10px 40px;
+    font-size: 20px;
+}
+.btn2{
+    padding: 10px 40px;
+    font-size: 20px;
+
+}
+.btn0{
+    background-color: white;
+    border-radius: 0px;
+    padding: 15px 20px;
+    font-size: large;
+    width: 100px;
+    text-align: center;
+    cursor: none;
+}

@@ -1,0 +1,30 @@
+*{
+    width: 0;
+    height: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightslategray;
+}
+.div{
+    text-align: center;
+    width: 99vw;
+    height: 98vh;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+input{
+    background-color: rgb(133, 204, 27);
+    border: none;
+    border-radius: 15px;
+    /* text-align: center; */
+    width: 300px;
+    height: 80px;
+    font-size: 40px;
+    padding: 25px;
+    box-shadow: 5px 5px 25px 5px;
+    cursor: pointer;
+    margin-top: 18%;
+    
+}
